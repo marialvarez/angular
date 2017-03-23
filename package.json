@@ -1,0 +1,23 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "Proyecto en angulat 1.6\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[r",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angular",
+    "js",
+    "maricela"
+  ],
+  "author": "Maricela",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^1.12.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
